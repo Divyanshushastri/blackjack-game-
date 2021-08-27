@@ -16,7 +16,7 @@ p {
     font-style:italic;
 
 }button {
-    text color: #016f32;
+    color: #016f32;
     width: 150px;
     background: goldenrod;
     padding-top: 5px;
@@ -24,5 +24,6 @@ p {
     font-weight: bold;
     border: none;
     border-radius: 2px;
+    margin: 4px;
 
 }
